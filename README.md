@@ -2,7 +2,7 @@
 
 Welcome to **Weather Cast**, a simple and user-friendly weather webapp shows  real-time weather updates for any city worldwide. The webapp fetches data using the OpenWeather API and displays essential weather details.
 
-##Link For the Site
+# Link For the Site
 [Weather Cast](https://weather--cast.vercel.app)
 
 ## 📌 Features
