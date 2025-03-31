@@ -5,7 +5,7 @@ Welcome to **Weather Cast**, a simple and user-friendly weather webapp shows  re
 # Link For the Site
 [Weather Cast](https://weather--cast.vercel.app)
 
-## 📌 Features
+##  Features
 - 🌍 **Search for Any City**: Enter a city name to get real-time weather updates.
 - 🌡️ **Temperature Details**: Displays current, minimum, and maximum temperature in Celsius.
 - 🌤️ **Weather Forecast**: Shows the current weather condition (e.g., sunny, cloudy, rainy).
@@ -13,14 +13,14 @@ Welcome to **Weather Cast**, a simple and user-friendly weather webapp shows  re
 - ⏳ **Date & Time**: Shows the local date and time of the searched location.
 - 🎨 **Responsive UI**: Works on both desktop and mobile devices.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **API**: OpenWeather API
 - **Hosting**: Vercel
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```sh
 git clone https://github.com/yourusername/weather-cast.git
 cd weather-cast
